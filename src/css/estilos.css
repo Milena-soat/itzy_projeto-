@@ -42,7 +42,7 @@ main .idol .imagem {
 }
 
 .conteudo .nome-idol {
-    color: #ffffff;
+    color: #8d3088;
     font-size: 48px;
     font-family: "Secular One";
     font-weight: 400;
@@ -50,7 +50,7 @@ main .idol .imagem {
 }
 
 .conteudo .descricao {
-    color: #ffffff;
+    color: #000000;
     font-family: "Rubik";
     line-height: 24px;
 }
