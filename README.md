@@ -5,7 +5,7 @@
   Navegue pelas abas de cada integrante e descubra seus <b>animais representativos</b>. ✨
 </p>
 
-
+---
 
 ## 🔗 Acesse o site  
 <p align="center">
@@ -14,12 +14,16 @@
   </a>
 </p>
 
+---
 
 ## ✨ Visual do grupo  
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWkzbngwdWhzNTRzdXVkNWkwNWVhdnd0dzVrcTMweW9xbDdxbXFtYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gMahH4BNtkGzUdS1dI/giphy.gif" width="400" alt="ITZY GIF"/>
-</p>  
+  <img src="https://media1.giphy.com/media/MDOKfR01WTLqfyPb9j/giphy.gif" width="400" alt="ITZY GIF"/>
+</p>
 
+
+
+---
 
 ## 🛠️ Tecnologias utilizadas  
 <p align="center">
@@ -28,6 +32,6 @@
   <img src="https://img.shields.io/badge/JavaScript-e6e6fa?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-
+---
 
 <p align="center">🌸 Feito com carinho por <b>Milena</b> 🌸</p>
