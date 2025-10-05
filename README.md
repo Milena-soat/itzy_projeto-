@@ -27,4 +27,4 @@
 
 ---
 
-<p align="center">🌸 Feito com carinho por <b>Milena</b> 🌸</p>
+<p align="center">🌸 Feito com carinho 🌸</p>
